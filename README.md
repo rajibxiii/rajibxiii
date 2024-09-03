@@ -15,7 +15,7 @@
 
 <div align="center">
 
-### Random Quote
+### A Random Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Quote" />
 
