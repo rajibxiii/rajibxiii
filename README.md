@@ -5,5 +5,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajibxiii&theme=noctis_minimus&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibxiii&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+##
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
