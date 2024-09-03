@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-## Random Quote
 <div align="center">
+### Quote of The Day
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Quote" />
 </div>
