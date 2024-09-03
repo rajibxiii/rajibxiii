@@ -4,12 +4,10 @@
 ## Git Stats
 <table>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajibxiii&theme=noctis_minimus&hide_border=true" alt="GitHub Streak" />
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibxiii&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
@@ -17,3 +15,5 @@
 
 ## Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+
