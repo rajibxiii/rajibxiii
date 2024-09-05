@@ -14,7 +14,9 @@
 </table>
 
 <div align="center">
-
+  
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rajibxiii" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/rajibxiii?trk=profile-badge">Muhammad Rajib</a></div>
+              
 ### A Random Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Quote" />
