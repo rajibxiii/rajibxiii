@@ -1,3 +1,7 @@
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Quote" />
+
+---
+
 ## What I work with
 
 **Languages**
@@ -27,16 +31,13 @@
 
 ## Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajibxiii&theme=noctis_minimus&hide_border=true" alt="streak" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibxiii&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
-</p>
-
----
-
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajibxiii)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/rajibxiii)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rajibxiii)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajibxiii&theme=noctis_minimus&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibxiii&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
