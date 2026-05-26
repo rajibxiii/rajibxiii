@@ -2,7 +2,7 @@
 
 **Recent grad. Builder. Dhaka → Everywhere.**
 
-Open to opportunities · Up for research collabs · Will beat you at Tic-Tac-Toe
+Open to opportunities · Up for research collabs
 
 ---
 
@@ -33,11 +33,13 @@ Open to opportunities · Up for research collabs · Will beat you at Tic-Tac-Toe
 
 ---
 
-## GitHub Stats
+## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibxiii&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajibxiii&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true&hide_rank=false)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajibxiii&theme=noctis_minimus&hide_border=true" alt="streak" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibxiii&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
+</p>
 
 ---
 
