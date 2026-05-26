@@ -9,7 +9,6 @@ Open to opportunities · Up for research collabs · Will beat you at Tic-Tac-Toe
 ## What I work with
 
 **Languages**
-
 `Python` `Java` `C` `C++` `JavaScript` `PHP` `Assembly`
 
 **Data & ML**
@@ -34,13 +33,11 @@ Open to opportunities · Up for research collabs · Will beat you at Tic-Tac-Toe
 
 ---
 
-## Stats
+## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajibxiii&theme=noctis_minimus&hide_border=true" alt="streak" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibxiii&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibxiii&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajibxiii&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true&hide_rank=false)
 
 ---
 
@@ -52,5 +49,4 @@ Open to opportunities · Up for research collabs · Will beat you at Tic-Tac-Toe
 
 ---
 
-> Open to research collabs — reach out if you're working on something interesting.
-> And yes, the Tic-Tac-Toe challenge stands.
+> Open to collabs on research projects. Ask me anything — I don't bite. (I do win at Tic-Tac-Toe though.)
