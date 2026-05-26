@@ -1,11 +1,3 @@
-# Muhammad Rajib
-
-**Recent grad. Builder. Dhaka → Everywhere.**
-
-Open to opportunities · Up for research collabs
-
----
-
 ## What I work with
 
 **Languages**
@@ -46,9 +38,5 @@ Open to opportunities · Up for research collabs
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajibxiii)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rajibxiii)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/rajibxiii)
-
----
-
-> Open to collabs on research projects. Ask me anything — I don't bite. (I do win at Tic-Tac-Toe though.)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rajibxiii)
